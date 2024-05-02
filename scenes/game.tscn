@@ -523,3 +523,6 @@ position = Vector2(601, -73)
 
 [node name="Slime" parent="." instance=ExtResource("7_pug36")]
 position = Vector2(544, 112)
+
+[node name="Area2D" parent="." instance=ExtResource("5_sb335")]
+position = Vector2(384, 70)
